@@ -6,19 +6,19 @@
 
 ## Pruebas de Caja Blanca
 ---
-* Técnica de Clases de Equivalencia
+* Técnica de Clases de Equivalencia\
 ![](img/clasesregistro.PNG)
 
 
 ## Pruebas de Caja Negra
 ---
-* Técnica de Clases de Equivalencia
+* Técnica de Clases de Equivalencia\
 ![](img/clasesvuelos.PNG)
 
-* Diseño
+* Diseño\
 ![](img/diseñovuelos.PNG)
 
-* Técnica del Límite
+* Técnica del Límite\
 ![](img/limitevuelos.PNG)
 
 En estas pruebas hace falta que el .jar incluya las Excepciones pertinentes para la funcion `calculoTarifa`.
