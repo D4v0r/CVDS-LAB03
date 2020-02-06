@@ -22,3 +22,6 @@
 ![](img/limitevuelos.PNG)
 
 En estas pruebas hace falta que el .jar incluya las Excepciones pertinentes para la función `calculoTarifa`.
+
+## Compilacion y Ejecucion
+![](img/TestBuild.PNG)
